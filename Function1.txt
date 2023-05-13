@@ -1,0 +1,2 @@
+age = int(input("Whats your age"))
+print("your age is:", age)
